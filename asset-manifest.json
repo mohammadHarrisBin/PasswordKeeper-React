@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/passwordlocker/static/css/main.ae411848.chunk.css",
+    "main.js": "/passwordlocker/static/js/main.539c76c6.chunk.js",
+    "main.js.map": "/passwordlocker/static/js/main.539c76c6.chunk.js.map",
+    "runtime-main.js": "/passwordlocker/static/js/runtime-main.ba0ecf2b.js",
+    "runtime-main.js.map": "/passwordlocker/static/js/runtime-main.ba0ecf2b.js.map",
+    "static/js/2.696029bf.chunk.js": "/passwordlocker/static/js/2.696029bf.chunk.js",
+    "static/js/2.696029bf.chunk.js.map": "/passwordlocker/static/js/2.696029bf.chunk.js.map",
+    "static/js/3.a5464296.chunk.js": "/passwordlocker/static/js/3.a5464296.chunk.js",
+    "static/js/3.a5464296.chunk.js.map": "/passwordlocker/static/js/3.a5464296.chunk.js.map",
+    "index.html": "/passwordlocker/index.html",
+    "static/css/main.ae411848.chunk.css.map": "/passwordlocker/static/css/main.ae411848.chunk.css.map",
+    "static/js/2.696029bf.chunk.js.LICENSE.txt": "/passwordlocker/static/js/2.696029bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba0ecf2b.js",
+    "static/js/2.696029bf.chunk.js",
+    "static/css/main.ae411848.chunk.css",
+    "static/js/main.539c76c6.chunk.js"
+  ]
+}
